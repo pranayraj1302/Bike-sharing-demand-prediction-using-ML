@@ -75,3 +75,17 @@ The steps include:
 - Evaluating the model's performance using metrics such as R-squared and Adjusted R-squared.
 - Checking for multicollinearity using Variance Inflation Factor (VIF).
 - The final model is built using 6 significant features, achieving an Adjusted **R-squared value of approximately 79.1%.**
+
+
+# Output Images
+
+![Bike Sharing - 5](https://github.com/user-attachments/assets/bf98d480-adde-43e8-b4cf-42183add3c07)
+![Bike Sharing - 4](https://github.com/user-attachments/assets/d887b65a-06b0-4947-8863-305e4fc1a8ec)
+![Bike Sharing - 3](https://github.com/user-attachments/assets/bb3ef4fc-c0ea-49a8-8720-234145a0316e)
+![Bike Sharing - 1](https://github.com/user-attachments/assets/9dc3d4e4-72a6-4354-bf70-aa739fcc640a)
+![Bike Sharing   Corelation](https://github.com/user-attachments/assets/29394e4d-9c65-4f05-bb98-c74dd10823f9)
+![Bike Sharing -2](https://github.com/user-attachments/assets/90dede05-2168-443c-88e5-c9b31a08b6e9)
+![Bike Sharing - 8](https://github.com/user-attachments/assets/0c4c7ac7-0003-4c8d-8ee3-4adb543d08b2)
+![Bike Sharing - 7](https://github.com/user-attachments/assets/06f1d079-6f91-4634-89eb-50297479711a)
+![Bike Sharing - 6](https://github.com/user-attachments/assets/45b68268-aeee-424d-9ca4-133e1d8e30ac)
+
